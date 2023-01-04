@@ -6,8 +6,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=guigrasel" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-  <div align="left"><br>
+<h1 align="center">Languages and Tools:</h1>
+  <div align="center">
   <img align="center" alt="Igor-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
