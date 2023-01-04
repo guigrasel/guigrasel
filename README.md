@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile.
+<h1 align="center">Hi 👋, I'm Guilherme Grasel</h1>
 
 <div align="center">
   <a href="https://github.com/guigrasel">
