@@ -3,8 +3,13 @@
 <div align="center">
   <a href="https://github.com/guigrasel">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guigrasel&show_icons=true&theme=white&&count_private=true"/>
+</div>
+
+<h1 align="center">Last 7 days:</h1>
+<div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=guigrasel" />
 </div>
+
 
 <h1 align="center">Languages and Tools:</h1>
   <div align="center">
