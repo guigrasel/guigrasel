@@ -5,13 +5,13 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guigrasel&show_icons=true&theme=white&&count_private=true"/>
 </div>
 
-<h1 align="center">Last 7 days:</h1>
+<h2 align="center">Last 7 days:</h1>
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=guigrasel" />
 </div>
 
 
-<h1 align="center">Languages and Tools:</h1>
+<h2 align="center">Languages and Tools:</h1>
   <div align="center">
   <img align="center" alt="Igor-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
