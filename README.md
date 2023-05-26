@@ -5,7 +5,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guigrasel&show_icons=true&theme=white&&count_private=true"/>
 </div>
 
-<h2 align="center">Last 7 days:</h1>
+<h2 align="center">Last Year:</h1>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guigrasel" />
 </div>
