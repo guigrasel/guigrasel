@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/guigrasel">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guigrasel&show_icons=true&theme=white&&count_private=true"/>
 </div>
 
 <h2 align="center"><img src="https://wakatime.com/badge/user/b53541dd-3a42-4f8b-a796-4f9402ce93c5.svg"/></h2>
