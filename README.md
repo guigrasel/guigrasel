@@ -6,7 +6,7 @@
 
 <h2 align="center"><img src="https://wakatime.com/badge/user/b53541dd-3a42-4f8b-a796-4f9402ce93c5.svg"/></h2>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guigrase" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guigrasel" />
 </div>
 
 
